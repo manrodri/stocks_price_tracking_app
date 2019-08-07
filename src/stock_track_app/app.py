@@ -1,5 +1,5 @@
 # todo ci setup: jenkins pipeline. Build, test, deploy.
-# todo tests
+# todo test
 # todo error handling
 # todo oo desing
 # todo gui
