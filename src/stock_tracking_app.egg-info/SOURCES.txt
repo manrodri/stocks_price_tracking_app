@@ -1,0 +1,6 @@
+README.rst
+setup.py
+src/stock_tracking_app.egg-info/PKG-INFO
+src/stock_tracking_app.egg-info/SOURCES.txt
+src/stock_tracking_app.egg-info/dependency_links.txt
+src/stock_tracking_app.egg-info/top_level.txt
